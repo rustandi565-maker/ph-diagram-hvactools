@@ -1,0 +1,7 @@
+{
+  "name": "Kalkulator HVAC Pro",
+  "description": "Kalkulator teknik HVAC dan sistem refrigerasi kaskade (C.P. Arora & W.F. Stoecker) untuk perhitungan performa COP, multi-refrigerant (CO2, NH3, R23, R134a, R404A, R290), beban AC (BTU & PK), ventilasi CFM, dan ducting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
